@@ -1,0 +1,32 @@
+#countlabel{
+    font-size: 4em;
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+#btncontainer{
+    text-align: center ;
+}
+.button{
+    color: black;
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#btn:hover{
+    transition: 10s;
+    transform-box: border-box;
+}
+#mybutton{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    background-color: aquamarine;
+}
+#mysubmit{
+    font-size: 1em;
+    padding: 5px 25px;
+    background-color: bisque;
+    color: blue;
+}
