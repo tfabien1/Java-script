@@ -1,14 +1,5 @@
  //if statement:these they are statements that help us to compare different contracepting statements
-let x = 3;
-let y = 10;
-let z = x + y ;
 
-if(z < 10){ 
- z = "It is the true value"}
-
-else{z =  "It is not the true value"
-};
-console.log(z);
 
 const myText = document.getElementById("myText");
 const mysubmit = document.getElementById("mysubmit");
