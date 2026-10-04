@@ -4,7 +4,7 @@ let fruits = ["apple","orange","banana"];
 //fruits.unshift("mango");
 //fruits.shift();
 
-//let numOfFruits = fruits.length;
+let numOfFruits = fruits.length;
 //let index = fruits.indexOf("banana");
 //console.log(numOfFruits);
 //console.log(fruits[1]);
