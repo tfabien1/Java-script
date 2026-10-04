@@ -7,4 +7,4 @@ for(let i = 1 ; i<=20; i++){
     }
    
 }
-console.log("HAPPY NEW YEAR");
+//console.log("HAPPY NEW YEAR");
